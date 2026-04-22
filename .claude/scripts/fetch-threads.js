@@ -19,7 +19,7 @@ const fs = require('fs')
 // ── Config ────────────────────────────────────────────────────────────────────
 const ROOT = path.resolve(__dirname, '../..')
 const VERCEL_TEAM_ID = 'team_1Ji8DksAu90LooEd5b32TT1t'
-const VERCEL_PROJECT_ID = 'prj_eRnFk1onOZWmwaxXcPczc5MTDKDl'
+const VERCEL_PROJECT_ID = 'prj_EYFx92aDPhJNlVOIeSbqzmmHUDSt'
 
 // ── Args ──────────────────────────────────────────────────────────────────────
 const args = process.argv.slice(2)

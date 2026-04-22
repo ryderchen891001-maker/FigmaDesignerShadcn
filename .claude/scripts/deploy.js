@@ -19,7 +19,7 @@ const path = require('path')
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const ROOT = path.resolve(__dirname, '../..')
-const VERCEL_PROJECT = 'figma-designer-review'
+const VERCEL_PROJECT = 'figmadesignershadcn'
 const VERCEL_SCOPE = 'ryderchen891001-1255s-projects'
 
 // ── Args ──────────────────────────────────────────────────────────────────────
@@ -48,7 +48,7 @@ let deploymentId = null
 
 // Try to parse from deploy output
 const output = result.stdout + result.stderr
-const urlMatch = output.match(/https:\/\/figma-designer-review-[^\s]+\.vercel\.app/)
+const urlMatch = output.match(/https:\/\/figmadesignershadcn-[^\s]+\.vercel\.app/)
 if (urlMatch) {
   url = urlMatch[0]
 }
@@ -60,7 +60,7 @@ if (!url) {
       `vercel ls ${VERCEL_PROJECT} --scope ${VERCEL_SCOPE}`,
       { encoding: 'utf8', cwd: ROOT }
     )
-    const lsMatch = lsOut.match(/https:\/\/figma-designer-review-[^\s]+\.vercel\.app/)
+    const lsMatch = lsOut.match(/https:\/\/figmadesignershadcn-[^\s]+\.vercel\.app/)
     if (lsMatch) url = lsMatch[0]
   } catch (e) {
     process.stderr.write('vercel ls fallback failed: ' + e.message + '\n')
