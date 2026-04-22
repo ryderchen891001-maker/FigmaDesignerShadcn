@@ -1,0 +1,14 @@
+{
+  "name": "PlanA",
+  "figmaFileKey": "",
+  "figmaToken": "",
+  "pendingDir": "projects/PlanA/components/pending",
+  "archivedDir": "projects/PlanA/components/archived",
+  "tokensFile": "projects/PlanA/tokens.json",
+  "manifestFile": "projects/PlanA/manifest.json",
+  "workspaceDir": ".claude/workspace/PlanA",
+  "reportsDir": "projects/PlanA/reports",
+  "uiLibrary": "shadcn",
+  "shadcnStyle": "new-york",
+  "shadcnBaseColor": "zinc"
+}
