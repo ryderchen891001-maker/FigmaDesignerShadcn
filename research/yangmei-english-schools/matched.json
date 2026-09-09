@@ -1,0 +1,3491 @@
+[
+ {
+  "band": "0–5 km",
+  "distance_km": 0.74,
+  "name": "D&V Art and English Academy 英語藝術學院",
+  "short_name": "D&V Art and English Academy 英語藝術學院",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區四維里四維路62號",
+  "phone": "03 481 0548",
+  "website": "",
+  "rating": 5,
+  "reviews": 2,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11706052368035496537&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9139281,
+  "lng": 121.18044069999999,
+  "place_id": "ChIJjaZ1dFAjaDQRWULgfptAdKI",
+  "reg_ids": [
+   "33200807220007"
+  ],
+  "reg_names": [
+   "私立大衛與費雯莉英語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 0.75,
+  "name": "私立勝豐美語珠心算短期補習班",
+  "short_name": "私立勝豐美語珠心算短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區埔心里新興街35號",
+  "phone": "03 481 7643",
+  "website": "http://www.anayeh.com/sf",
+  "rating": 5,
+  "reviews": 12,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5622297850182312696&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.918405999999997,
+  "lng": 121.18533300000001,
+  "place_id": "ChIJMTkWf0MjaDQR-CKPRRtqBk4",
+  "reg_ids": [
+   "33200209180017"
+  ],
+  "reg_names": [
+   "私立勝豐美語珠心算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 0.96,
+  "name": "承恩美語補習班",
+  "short_name": "承恩美語補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區四維里四維路162號",
+  "phone": "03 481 1177",
+  "website": "",
+  "rating": 4.8,
+  "reviews": 33,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11221506505123687293&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.912301000000003,
+  "lng": 121.18172340000001,
+  "place_id": "ChIJ2as8PVAjaDQRfeuhWrbMups",
+  "reg_ids": [
+   "33200507130011"
+  ],
+  "reg_names": [
+   "環愛國際教育管理顧問股份有限公司附設私立承恩語文數學短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.3,
+  "name": "愛美語楊梅大同二校-漢峰補習班",
+  "short_name": "愛美語楊梅大同二校-漢峰補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊梅里梅高路60號",
+  "phone": "03 488 2055",
+  "website": "",
+  "rating": 5,
+  "reviews": 2,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16961882910019448895&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9172901,
+  "lng": 121.14555299999999,
+  "place_id": "ChIJS3s3FgYlaDQRP3B6haO2ZOs",
+  "reg_ids": [
+   "33202512290001"
+  ],
+  "reg_names": [
+   "私立漢峰文理短期補習班梅高分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.35,
+  "name": "莫比思美語楊梅分校 智瀚語文補習班",
+  "short_name": "莫比思美語楊梅分校 智瀚語文補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊梅里大平街23號",
+  "phone": "03 478 3105",
+  "website": "",
+  "rating": 4.8,
+  "reviews": 4,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=882732199886006311&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9107126,
+  "lng": 121.14666640000002,
+  "place_id": "ChIJlRS3NzU7aDQRJygBRkIYQAw",
+  "reg_ids": [
+   "33201209210003"
+  ],
+  "reg_names": [
+   "私立智瀚語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.37,
+  "name": "愛美語楊梅大同一校-漢峰語文文理補習班",
+  "short_name": "愛美語楊梅大同一校-漢峰語文文理補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊梅里大平街62號",
+  "phone": "03 475 0803",
+  "website": "https://www.facebook.com/hf4750803/?ref=bookmarks",
+  "rating": 5,
+  "reviews": 21,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=14572345456801926781&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.910870700000004,
+  "lng": 121.14639969999999,
+  "place_id": "ChIJfQ3QwBs7aDQRfc70QPxeO8o",
+  "reg_ids": [
+   "33200308260001"
+  ],
+  "reg_names": [
+   "私立漢峰語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.48,
+  "name": "私立傑西美語短期補習班-楊梅兒童美語|推薦英文班|英文補習班|全美班|外師一對一|全民英檢課程|全科補習班|幼兒美語",
+  "short_name": "私立傑西美語短期補習班-楊梅兒童美語",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊梅里大模街33號57號",
+  "phone": "03 478 0758",
+  "website": "https://www.facebook.com/jessiemagicschooll/",
+  "rating": 4.9,
+  "reviews": 104,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10190572630728074260&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9118364,
+  "lng": 121.14486769999999,
+  "place_id": "ChIJzQhw0DQ7aDQRFGRd0NAvbI0",
+  "reg_ids": [
+   "33200211130003"
+  ],
+  "reg_names": [
+   "私立傑西魔法美語文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.48,
+  "name": "政大聯合文理語文短期補習班",
+  "short_name": "政大聯合文理語文短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊梅里大成路109號3F",
+  "phone": "0981 745 350",
+  "website": "",
+  "rating": 1,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=709538259725970128&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.910428,
+  "lng": 121.14539099999999,
+  "place_id": "ChIJcznwIDU7aDQR0OqDtUnJ2Ak",
+  "reg_ids": [
+   "33200909110003"
+  ],
+  "reg_names": [
+   "私立傑兒文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.56,
+  "name": "喬立安美語Joanne’s Language Program",
+  "short_name": "喬立安美語Joanne’s Language Program",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊江里大平街85號",
+  "phone": "03 485 4477",
+  "website": "https://www.facebook.com/joannestw",
+  "rating": 4.6,
+  "reviews": 10,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11250750969546028302&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.910933099999998,
+  "lng": 121.1444006,
+  "place_id": "ChIJeVfwshg7aDQRDjUs1GWyIpw",
+  "reg_ids": [
+   "33200807220002"
+  ],
+  "reg_names": [
+   "私立喬立安美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.61,
+  "name": "空中美語兒童美語 佶林文理短期補習班",
+  "short_name": "空中美語兒童美語 佶林文理短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區楊江里大平街126號",
+  "phone": "03 485 4778",
+  "website": "",
+  "rating": 4.4,
+  "reviews": 19,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17027078322080113698&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9110952,
+  "lng": 121.1438123,
+  "place_id": "ChIJvZ2PuDQ7aDQRIuRWRoVVTOw",
+  "reg_ids": [
+   "33200406250004"
+  ],
+  "reg_names": [
+   "私立佶林文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.66,
+  "name": "凱思英語短期補習班",
+  "short_name": "凱思英語短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區永寧里永寧路一巷6號",
+  "phone": "03 485 4650",
+  "website": "https://www.facebook.com/ksenglishlanguageschool/",
+  "rating": 4.3,
+  "reviews": 24,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5314190711464383295&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9031639,
+  "lng": 121.1471083,
+  "place_id": "ChIJ3So4zTc7aDQRP9OD2UvMv0k",
+  "reg_ids": [
+   "33201501270001"
+  ],
+  "reg_names": [
+   "私立凱思英語文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.68,
+  "name": "群勵文理美語補習班",
+  "short_name": "群勵文理美語補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區永寧里永寧路17巷2號",
+  "phone": "03 488 0637",
+  "website": "",
+  "rating": 5,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=1572116877325483114&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.903121799999997,
+  "lng": 121.14697640000001,
+  "place_id": "ChIJF-wC9b07aDQRarxhcvhH0RU",
+  "reg_ids": [
+   "33200701110001"
+  ],
+  "reg_names": [
+   "私立群勵文理美語短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 3.85,
+  "name": "喬登美語(祥安分校)",
+  "short_name": "喬登美語",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區湧安里湧安路44號",
+  "phone": "03 419 2435",
+  "website": "http://www.nean-nei.com.tw/",
+  "rating": 4.8,
+  "reviews": 41,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9307923240357268090&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.894544,
+  "lng": 121.20374400000001,
+  "place_id": "ChIJ9TFbvM08aDQRegoZIt9iLIE",
+  "reg_ids": [
+   "33201306140001"
+  ],
+  "reg_names": [
+   "私立尼恩語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.39,
+  "name": "長頸鹿美語-平鎮文化分校 文化國小補習班推薦 課輔班 兒童美語 國小英文 國小美語 小一先修班 正音班 英檢班",
+  "short_name": "長頸鹿美語-平鎮文化分校 文化國小補習班推薦 課輔班 兒童美語 國小英文 國小美",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復旦里文化街186號",
+  "phone": "03 493 1210",
+  "website": "https://giraffe-pingzhen.weebly.com/",
+  "rating": 4.8,
+  "reviews": 25,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=14553044571440577840&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9525965,
+  "lng": 121.20314959999999,
+  "place_id": "ChIJkUsY3bojaDQRMH0kse7M9sk",
+  "reg_ids": [
+   "33201111020001"
+  ],
+  "reg_names": [
+   "私立卓越大文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.4,
+  "name": "雅典音樂語文短期補習班",
+  "short_name": "雅典音樂語文短期補習班",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復旦里文化街180號",
+  "phone": "03 493 5080",
+  "website": "",
+  "rating": 1,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16844164562962163082&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.952707,
+  "lng": 121.20313399999999,
+  "place_id": "ChIJ_xBk3bojaDQRiiWVAW1-wuk",
+  "reg_ids": [
+   "33200612290001"
+  ],
+  "reg_names": [
+   "私立雅典音樂語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類,音樂、舞蹈類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.41,
+  "name": "奧斯汀美語 微思分校",
+  "short_name": "奧斯汀美語 微思分校",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復旦里復旦路二段150巷271號",
+  "phone": "03 494 0020",
+  "website": "https://www.facebook.com/share/16r4j3onqR/?mibextid=wwXIfr",
+  "rating": 5,
+  "reviews": 95,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16601075339749405021&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.953066399999997,
+  "lng": 121.2027249,
+  "place_id": "ChIJUcxSeWcjaDQRXbFCsxDeYuY",
+  "reg_ids": [
+   "33202505020002"
+  ],
+  "reg_names": [
+   "私立微思文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.47,
+  "name": "奧斯汀美語中平分校(松勇校)",
+  "short_name": "奧斯汀美語中平分校",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區過嶺里松勇路39號",
+  "phone": "03 420 0817",
+  "website": "https://www.facebook.com/pages/category/Language-School/%E5%A5%A7%E6%96%AF%E6%B1%80%E7%BE%8E%E8%AA%9E%E4%B8%AD%E5%B9%B3%E5%88%86%E6%A0%A1-104044731308159/",
+  "rating": 4.3,
+  "reviews": 29,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10465279855178388811&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9590128,
+  "lng": 121.1665328,
+  "place_id": "ChIJ6YvNKx4laDQRS5X1spQkPJE",
+  "reg_ids": [
+   "33202304280001"
+  ],
+  "reg_names": [
+   "私立睿儀文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.53,
+  "name": "小學堂文教機構 | Live互動美語",
+  "short_name": "小學堂文教機構",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復旦里文化街88號",
+  "phone": "03 281 0128",
+  "website": "http://a99011240.jretc.net/index.html",
+  "rating": 4.9,
+  "reviews": 121,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3332216936380614174&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.954159999999998,
+  "lng": 121.20300749999998,
+  "place_id": "ChIJ82UTVrojaDQRHsaBF6ZpPi4",
+  "reg_ids": [
+   "33201407140002"
+  ],
+  "reg_names": [
+   "私立世一語文數學短期補習班"
+  ],
+  "reg_types": [
+   "外語類,其他類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.54,
+  "name": "菲比斯英語",
+  "short_name": "菲比斯英語",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區過嶺里松德路125號",
+  "phone": "03 420 5140",
+  "website": "",
+  "rating": 5,
+  "reviews": 6,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3584561199786145630&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.960269,
+  "lng": 121.1689743,
+  "place_id": "ChIJdZNuAhMlaDQRXrfmXGvrvjE",
+  "reg_ids": [
+   "33202212080001"
+  ],
+  "reg_names": [
+   "私立菲比斯文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.56,
+  "name": "建如文理補習班、MPM數學、空中美語文化分校",
+  "short_name": "建如文理補習班、MPM數學、空中美語文化分校",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復旦里文化街72號",
+  "phone": "03 493 8800",
+  "website": "https://www.facebook.com/English4u.wenhua/",
+  "rating": 4.7,
+  "reviews": 16,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=13242322295055546703&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9545066,
+  "lng": 121.2030132,
+  "place_id": "ChIJLf8OUbojaDQRT3kFbvctxrc",
+  "reg_ids": [
+   "33200810280003"
+  ],
+  "reg_names": [
+   "私立建如語文文理珠心算短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.59,
+  "name": "大山美語文理補習班",
+  "short_name": "大山美語文理補習班",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區北富里金陵路三段150巷2弄37-2號",
+  "phone": "03 458 9120",
+  "website": "",
+  "rating": 3.8,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=533073149369859255&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9251418,
+  "lng": 121.22331439999998,
+  "place_id": "ChIJBYcEsuQiaDQRtzx9ezTbZQc",
+  "reg_ids": [
+   "33200810280005"
+  ],
+  "reg_names": [
+   "私立大山美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.6,
+  "name": "小森林美語",
+  "short_name": "小森林美語",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復興里文化街61號",
+  "phone": "",
+  "website": "",
+  "rating": 4.5,
+  "reviews": 16,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=7782109380727472788&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.954863699999997,
+  "lng": 121.20313230000001,
+  "place_id": "ChIJd2ikT7ojaDQRlAJ_GUCb_2s",
+  "reg_ids": [
+   "33200208200005"
+  ],
+  "reg_names": [
+   "私立小森林美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "name"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.62,
+  "name": "加大美語",
+  "short_name": "加大美語",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復興里廣德街93號",
+  "phone": "03 492 2061",
+  "website": "",
+  "rating": 3.5,
+  "reviews": 8,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=498693267709005322&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9537682,
+  "lng": 121.2052329,
+  "place_id": "ChIJzYodf7ojaDQRCo6sgeK26wY",
+  "reg_ids": [
+   "33200208210013"
+  ],
+  "reg_names": [
+   "私立加大美語珠心算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.75,
+  "name": "錢老師語文音樂文理短期補習班",
+  "short_name": "錢老師語文音樂文理短期補習班",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區復興里復興街16號",
+  "phone": "0912 252 612",
+  "website": "",
+  "rating": 4.8,
+  "reviews": 20,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=13339665974785607848&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9546125,
+  "lng": 121.20608750000001,
+  "place_id": "ChIJmdzyl7AjaDQRqAh2CYcDILk",
+  "reg_ids": [
+   "33201412250003"
+  ],
+  "reg_names": [
+   "私立錢老師語文音樂文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.77,
+  "name": "葛洛莉英語-平鎮校Ping Jen(文化國小 復旦國小 平興國小)平鎮兒童美語 平鎮英文補習班 平鎮美語 國小英文 國中英文 小一新生 高中英文",
+  "short_name": "葛洛莉英語-平鎮校Ping Jen",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區環南路66巷17弄14衖26號",
+  "phone": "03 494 8585",
+  "website": "https://www.glo.com.tw/dist-pingzhen.html",
+  "rating": 5,
+  "reviews": 757,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2399269986938562045&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9552369,
+  "lng": 121.20545879999997,
+  "place_id": "ChIJpbcUCrojaDQR_aW6W1frSyE",
+  "reg_ids": [
+   "33200301220007"
+  ],
+  "reg_names": [
+   "私立春華英語會話短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.98,
+  "name": "哥倫匹亞語文短期補習班",
+  "short_name": "哥倫匹亞語文短期補習班",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區八德里梅龍路500號",
+  "phone": "03 489 1225",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=7218514729759551698&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8770424,
+  "lng": 121.1912218,
+  "place_id": "ChIJHRCxA5U8aDQR0jA-weZQLWQ",
+  "reg_ids": [
+   "33202402160001"
+  ],
+  "reg_names": [
+   "私立龍科國際美語村文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "0–5 km",
+  "distance_km": 4.98,
+  "name": "龍潭國際美語村",
+  "short_name": "龍潭國際美語村",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區八德里梅龍路500號",
+  "phone": "03 489 1225",
+  "website": "http://avi-school.org/",
+  "rating": 4.6,
+  "reviews": 8,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11529937537228790462&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8770424,
+  "lng": 121.1912218,
+  "place_id": "ChIJHRCxA5U8aDQRvtr2FBqRAqA",
+  "reg_ids": [
+   "33202402160001"
+  ],
+  "reg_names": [
+   "私立龍科國際美語村文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 5.0,
+  "name": "薇閣語文短期補習班",
+  "short_name": "薇閣語文短期補習班",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區北興里金陵路二段360號",
+  "phone": "03 457 0932",
+  "website": "",
+  "rating": 3.6,
+  "reviews": 20,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=13716747757068378667&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.934987,
+  "lng": 121.22499330000001,
+  "place_id": "ChIJCeWrj_giaDQRK2KyHWmtW74",
+  "reg_ids": [
+   "33201103080002"
+  ],
+  "reg_names": [
+   "私立薇閣語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 5.04,
+  "name": "吉的堡美語學校",
+  "short_name": "吉的堡美語學校",
+  "city": "桃園市",
+  "district": "平鎮區",
+  "address": "桃園市平鎮區北興里金陵路二段377-2號",
+  "phone": "03 428 8883",
+  "website": "http://www.kidcastle.com.tw/",
+  "rating": 3.3,
+  "reviews": 7,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=14216718545497890770&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.935665999999998,
+  "lng": 121.225174,
+  "place_id": "ChIJGQV1KlYiaDQR0h8cmDHuS8U",
+  "reg_ids": [
+   "33200612220006"
+  ],
+  "reg_names": [
+   "私立聖儒美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 5.51,
+  "name": "夏山美語",
+  "short_name": "夏山美語",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區百年里百年五街43號",
+  "phone": "03 480 2263",
+  "website": "https://summerhill-english.weebly.com/",
+  "rating": 5,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5288698627958463622&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.880239700000004,
+  "lng": 121.21032500000001,
+  "place_id": "ChIJ8aW1CNw8aDQRhlyPo2E7ZUk",
+  "reg_ids": [
+   "33201608100001"
+  ],
+  "reg_names": [
+   "私立夏山美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 5.81,
+  "name": "快樂園語文文理短期補習班",
+  "short_name": "快樂園語文文理短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區上田里楊新路四段37巷3弄19號",
+  "phone": "03 288 9060",
+  "website": "https://business.google.com/site/l/02286036876212200319?hl=zh-TW",
+  "rating": 5,
+  "reviews": 4,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12688579145237639145&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9365856,
+  "lng": 121.12338,
+  "place_id": "ChIJn0t_bTglaDQR6a9RcIHjFrA",
+  "reg_ids": [
+   "33201010150001"
+  ],
+  "reg_names": [
+   "私立快樂園語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.6,
+  "name": "學匯語文文理數學補習班 大崙校",
+  "short_name": "學匯語文文理數學補習班 大崙校",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區內厝里中正路四段66號",
+  "phone": "03 408 0369",
+  "website": "https://www.facebook.com/p/%E5%AD%B8%E5%8C%AF%E6%96%87%E7%90%86%E8%A3%9C%E7%BF%92%E7%8F%AD-100057664171337/?locale=zh_TW",
+  "rating": 4.8,
+  "reviews": 41,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11919443886743720693&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9885602,
+  "lng": 121.1810252,
+  "place_id": "ChIJ_3EL0sEhaDQR9ZKPJRBfaqU",
+  "reg_ids": [
+   "33202109070001"
+  ],
+  "reg_names": [
+   "私立學匯語文文理數學短期補習班大崙分班"
+  ],
+  "reg_types": [
+   "文理類,外語類,其他類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.61,
+  "name": "奇飛美語珠算短期補習班",
+  "short_name": "奇飛美語珠算短期補習班",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區內厝里中正路四段85號2樓",
+  "phone": "03 498 0101",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12245866672060643921&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.988681099999997,
+  "lng": 121.18035710000001,
+  "place_id": "ChIJFeln2FchaDQRUTr4WtsO8qk",
+  "reg_ids": [
+   "33202304280002"
+  ],
+  "reg_names": [
+   "私立祥耀文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.63,
+  "name": "長頸鹿美語大崙分校",
+  "short_name": "長頸鹿美語大崙分校",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區內厝里中正路四段107號",
+  "phone": "03 498 0101",
+  "website": "https://giraffe-dayuan.weebly.com/",
+  "rating": 4.9,
+  "reviews": 76,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9762046047280206172&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9888525,
+  "lng": 121.1799643,
+  "place_id": "ChIJ_9rK4RIjaDQRXJEkkSjBeYc",
+  "reg_ids": [
+   "33202304280002"
+  ],
+  "reg_names": [
+   "私立祥耀文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.65,
+  "name": "碩成常春藤英語大崙校",
+  "short_name": "碩成常春藤英語大崙校",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區中正路四段88巷8號",
+  "phone": "03 498 4115",
+  "website": "https://m.facebook.com/pages/category/Test-Preparation-Center/%E7%A2%A9%E6%88%90%E5%B8%B8%E6%98%A5%E8%97%A4%E8%8B%B1%E8%AA%9E%E5%A4%A7%E5%B4%99%E6%A0%A1-106843587572797/",
+  "rating": 4,
+  "reviews": 21,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4729929452937876402&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9889869,
+  "lng": 121.1809663,
+  "place_id": "ChIJJ6fSY-khaDQRshMF98YVpEE",
+  "reg_ids": [
+   "33201907040001"
+  ],
+  "reg_names": [
+   "私立碩成文理語文數學美術短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,美術、書法、攝影、美工設計、圍棋類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.75,
+  "name": "逸薇美語短期補習班",
+  "short_name": "逸薇美語短期補習班",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區武漢里武漢路50號",
+  "phone": "03 499 0697",
+  "website": "",
+  "rating": 5,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2784987015485436370&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.872528499999998,
+  "lng": 121.23412759999998,
+  "place_id": "ChIJoydigD49aDQR0rEVYu9CpiY",
+  "reg_ids": [
+   "33200612210010"
+  ],
+  "reg_names": [
+   "私立逸薇美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.84,
+  "name": "長頸鹿美語(武漢分校)",
+  "short_name": "長頸鹿美語",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區武漢里武漢路86號",
+  "phone": "03 489 0689",
+  "website": "",
+  "rating": 3.9,
+  "reviews": 18,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3710036910781997703&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.871601599999998,
+  "lng": 121.23440380000001,
+  "place_id": "ChIJZ7cncT49aDQRh6K_6umyfDM",
+  "reg_ids": [
+   "33200609130001"
+  ],
+  "reg_names": [
+   "私立阿里巴巴美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 7.94,
+  "name": "艾立笙文理語文短期補習班",
+  "short_name": "艾立笙文理語文短期補習班",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區中正里龍華路365號",
+  "phone": "03 409 0901",
+  "website": "",
+  "rating": 1,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12688028577401609648&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8584657,
+  "lng": 121.21760599999999,
+  "place_id": "ChIJC1o-FwI9aDQRsB0HYMTuFLA",
+  "reg_ids": [
+   "33200707170012"
+  ],
+  "reg_names": [
+   "私立艾立笙文理語文短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 8.67,
+  "name": "冠球語文珠算短期補習班",
+  "short_name": "冠球語文珠算短期補習班",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區仁愛里榮民南路224號",
+  "phone": "03 466 8629",
+  "website": "",
+  "rating": 5,
+  "reviews": 2,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4957700772940780852&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9524939,
+  "lng": 121.25640329999999,
+  "place_id": "ChIJbxsKfQwiaDQRNJXQAZZKzUQ",
+  "reg_ids": [
+   "33201408180002"
+  ],
+  "reg_names": [
+   "私立冠球語文珠算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 9.28,
+  "name": "邱老師美語短期補習班",
+  "short_name": "邱老師美語短期補習班",
+  "city": "桃園市",
+  "district": "新屋區",
+  "address": "桃園市新屋區新屋里新興街11號",
+  "phone": "0926 941 955",
+  "website": "",
+  "rating": 5,
+  "reviews": 4,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10841667619523414826&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9722627,
+  "lng": 121.1061862,
+  "place_id": "ChIJW3d7FqMlaDQRKkuMIkJXdZY",
+  "reg_ids": [
+   "33200705040001"
+  ],
+  "reg_names": [
+   "私立邱老師美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 9.43,
+  "name": "小學堂美語短期補習班",
+  "short_name": "小學堂美語短期補習班",
+  "city": "桃園市",
+  "district": "新屋區",
+  "address": "桃園市新屋區新屋里中正一街26巷7號",
+  "phone": "03 477 1886",
+  "website": "",
+  "rating": 5,
+  "reviews": 1,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17132230300581656515&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9738777,
+  "lng": 121.10573230000001,
+  "place_id": "ChIJXV06LaMlaDQRw3daHLDowe0",
+  "reg_ids": [
+   "33200811100001"
+  ],
+  "reg_names": [
+   "私立小學堂美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 9.54,
+  "name": "威齊語文短期補習班",
+  "short_name": "威齊語文短期補習班",
+  "city": "桃園市",
+  "district": "新屋區",
+  "address": "桃園市新屋區新生里新生五街8號2樓",
+  "phone": "03 477 9789",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16211324136502453195&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9745228,
+  "lng": 121.10485270000001,
+  "place_id": "ChIJU4KeK70laDQRy-PxLmkx-uA",
+  "reg_ids": [
+   "33201111220004"
+  ],
+  "reg_names": [
+   "私立威齊語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 9.89,
+  "name": "青宏美語珠心算短期補習班",
+  "short_name": "青宏美語珠心算短期補習班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區三元里三元三街14號",
+  "phone": "03 390 9931",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5685864498803722242&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.882619,
+  "lng": 121.26700600000001,
+  "place_id": "ChIJHVmMQv8XaDQRAkgz_KI_6E4",
+  "reg_ids": [
+   "33200209170010"
+  ],
+  "reg_names": [
+   "私立青宏美語珠心算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "5–10 km",
+  "distance_km": 9.89,
+  "name": "馬林魚美語文理短期補習班",
+  "short_name": "馬林魚美語文理短期補習班",
+  "city": "桃園市",
+  "district": "楊梅區",
+  "address": "桃園市楊梅區豐野里信義街231號",
+  "phone": "03 472 1249",
+  "website": "https://m.facebook.com/%E9%A6%AC%E6%9E%97%E9%AD%9A%E8%A3%9C%E7%BF%92%E7%8F%AD-169022626596685/?ref=bookmarks",
+  "rating": 3.7,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=1731807927207520159&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.936887,
+  "lng": 121.08174229999999,
+  "place_id": "ChIJwYObKVglaDQRn-doYCKeCBg",
+  "reg_ids": [
+   "33200806030002"
+  ],
+  "reg_names": [
+   "私立馬林魚美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.1,
+  "name": "文佑語文文理數學短期補習班",
+  "short_name": "文佑語文文理數學短期補習班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區光明里三元一街49號",
+  "phone": "03 390 9559",
+  "website": "",
+  "rating": 5,
+  "reviews": 2,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17602456463571825247&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8840219,
+  "lng": 121.26998940000001,
+  "place_id": "ChIJeeljagIYaDQRXzJ6TeR8SPQ",
+  "reg_ids": [
+   "33200208210016"
+  ],
+  "reg_names": [
+   "私立文佑語文文理數學短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.23,
+  "name": "Live互動美語中壢青埔加盟校/同學家(翻轉課後)",
+  "short_name": "Live互動美語中壢青埔加盟校",
+  "city": "桃園市",
+  "district": "中壢區",
+  "address": "桃園市中壢區青埔里青商路56號1樓",
+  "phone": "03 287 8978",
+  "website": "https://www.facebook.com/Liveabcahomefromhome",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4238158386200350127&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.005275100000002,
+  "lng": 121.21688770000002,
+  "place_id": "ChIJn_2HlkohaDQRr41Q95j20Do",
+  "reg_ids": [
+   "33202212260002"
+  ],
+  "reg_names": [
+   "私立同學家文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.29,
+  "name": "夏恩英語桃園大溪分校",
+  "short_name": "夏恩英語桃園大溪分校",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "號 No, No. 142仁善三街仁善里大溪區桃園市335",
+  "phone": "03 390 0868",
+  "website": "https://www.facebook.com/RachelsEnglishSchool/?ref=aymt_homepage_panel",
+  "rating": 5,
+  "reviews": 63,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17973680515661347222&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.907762299999998,
+  "lng": 121.27925259999999,
+  "place_id": "ChIJQX4Prm4YaDQRlrlaSjNXb_k",
+  "reg_ids": [
+   "33201309170001"
+  ],
+  "reg_names": [
+   "私立瑞淇語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.49,
+  "name": "奧斯汀美語桃園八德分校",
+  "short_name": "奧斯汀美語桃園八德分校",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區中正路178號1樓",
+  "phone": "03 368 2584",
+  "website": "https://reurl.cc/j9NgYy",
+  "rating": 4.7,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10352962592592293844&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9274676,
+  "lng": 121.28189440000001,
+  "place_id": "ChIJjRoIkWUZaDQR1O9eKKAcrY8",
+  "reg_ids": [
+   "33202511050003"
+  ],
+  "reg_names": [
+   "私立星點子文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,美術、書法、攝影、美工設計、圍棋類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.58,
+  "name": "耕心幼兒園 【愛美語 仁善分校】安親班、美語班、補習班、正音班",
+  "short_name": "耕心幼兒園 【愛美語 仁善分校】安親班、美語班、補習班、正音班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區仁善里仁德七街35號",
+  "phone": "03 380 7073",
+  "website": "https://reurl.cc/XE0k2M",
+  "rating": 5,
+  "reviews": 4,
+  "type": "幼稚園",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=15402730174840453911&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9145513,
+  "lng": 121.28289050000001,
+  "place_id": "ChIJ9YLcWtcZaDQRFzuOonx9wdU",
+  "reg_ids": [
+   "33200612190003"
+  ],
+  "reg_names": [
+   "私立立騰文理語文短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.62,
+  "name": "愛丁堡語文短期補習班",
+  "short_name": "愛丁堡語文短期補習班",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區建林里民族路294巷29號",
+  "phone": "0952 811 303",
+  "website": "",
+  "rating": 5,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=15103574266855413204&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.839088,
+  "lng": 121.23359029999997,
+  "place_id": "ChIJlWQYvL89aDQR1NWlBsasmtE",
+  "reg_ids": [
+   "33200207230025"
+  ],
+  "reg_names": [
+   "私立愛丁堡語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "name"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.63,
+  "name": "佳音英語桃德校",
+  "short_name": "佳音英語桃德校",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區興中里中興街14號",
+  "phone": "03 368 0022",
+  "website": "https://www.facebook.com/share/1LTJQ3ujcV/?mibextid=LQQJ4d",
+  "rating": 5,
+  "reviews": 7,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2859334526894675409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9269812,
+  "lng": 121.28327829999999,
+  "place_id": "ChIJcRlXWo4ZaDQR0RWRUZplric",
+  "reg_ids": [
+   "33202511060001"
+  ],
+  "reg_names": [
+   "私立森日語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.7,
+  "name": "得分文理語文短期補習班",
+  "short_name": "得分文理語文短期補習班",
+  "city": "桃園市",
+  "district": "龍潭區",
+  "address": "桃園市龍潭區三林里民族路265號",
+  "phone": "03 480 1553",
+  "website": "",
+  "rating": 3.7,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10347944177935672648&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8390991,
+  "lng": 121.23514099999998,
+  "place_id": "ChIJd1WMa6M9aDQRSGVtcWdIm48",
+  "reg_ids": [
+   "33200903240001"
+  ],
+  "reg_names": [
+   "私立得分文理語文短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 10.99,
+  "name": "康大電腦文理美語短期補習班",
+  "short_name": "康大電腦文理美語短期補習班",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區大同里中山路二段763巷23弄5號",
+  "phone": "03 498 9619",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=1430205591495836548&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0122739,
+  "lng": 121.1382623,
+  "place_id": "ChIJByqNyJEmaDQRhAPjbGgc2RM",
+  "reg_ids": [
+   "33200207240024"
+  ],
+  "reg_names": [
+   "私立康大電腦文理美語短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,資訊類"
+  ],
+  "match": "name"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.4,
+  "name": "布萊登文理補習班-Live互動美語新坡校（MPM數學）",
+  "short_name": "布萊登文理補習班-Live互動美語新坡校",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區新坡里中山路二段522號",
+  "phone": "03 498 0741",
+  "website": "https://www.facebook.com/shinpobrighton",
+  "rating": 5,
+  "reviews": 66,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=18035018636804813228&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0143566,
+  "lng": 121.13313409999999,
+  "place_id": "ChIJOW5rhOonaDQRrPFMhOVBSfo",
+  "reg_ids": [
+   "33202302150001"
+  ],
+  "reg_names": [
+   "私立布萊登文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.43,
+  "name": "澧森美語Listen To Me",
+  "short_name": "澧森美語Listen To Me",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區青山里領航北路三段223號2樓",
+  "phone": "03 287 0170",
+  "website": "https://www.facebook.com/profile.php?id=100088852862810&mibextid=LQQJ4d",
+  "rating": 4.6,
+  "reviews": 10,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10710909231072825876&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0180904,
+  "lng": 121.2129552,
+  "place_id": "ChIJVXrDGK8haDQRFFKMYzLLpJQ",
+  "reg_ids": [
+   "33202304250001"
+  ],
+  "reg_names": [
+   "私立澧森文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.63,
+  "name": "私立美亞美語短期補習班",
+  "short_name": "私立美亞美語短期補習班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區興和里中正路45號",
+  "phone": "03 388 0891",
+  "website": "",
+  "rating": 3.7,
+  "reviews": 13,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16259423481686131422&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8830317,
+  "lng": 121.2859362,
+  "place_id": "ChIJkS_23SEYaDQR3gKMroITpeE",
+  "reg_ids": [
+   "33200208270011"
+  ],
+  "reg_names": [
+   "私立美亞美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.77,
+  "name": "麋爾頓美語 Miltonkids Academy 兒童美語↗幼兒美語↗美語學習↗",
+  "short_name": "麋爾頓美語 Miltonkids Academy 兒童美語↗幼兒美語↗美語學習↗",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區青峰里大勇路26號",
+  "phone": "03 287 8335",
+  "website": "https://www.facebook.com/share/1PuJWpSzSM/?mibextid=wwXIfr",
+  "rating": 5,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4088211649515127756&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0196173,
+  "lng": 121.2184405,
+  "place_id": "ChIJDUR0lKshaDQRzIP2v9U-vDg",
+  "reg_ids": [
+   "33202406270001"
+  ],
+  "reg_names": [
+   "私立麋爾頓文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,資訊類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.78,
+  "name": "Warmhood 暖夥英語",
+  "short_name": "Warmhood 暖夥英語",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區青埔里大勇路31號",
+  "phone": "",
+  "website": "https://www.facebook.com/share/1ALxrer6sB/?mibextid=wwXIfr",
+  "rating": 5,
+  "reviews": 6,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=14176765589222857384&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.019614600000004,
+  "lng": 121.21876890000001,
+  "place_id": "ChIJyw1mYrIhaDQRqBqcETH9vcQ",
+  "reg_ids": [
+   "33202302100001"
+  ],
+  "reg_names": [
+   "逗點國際教育事業股份有限公司附設私立逗點文理短期補習班展翅分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.79,
+  "name": "【逗點教室-青園展翅校】青園國小安親班/青埔補習班/資優數學/自然科學實驗/兒童美語",
+  "short_name": "【逗點教室-青園展翅校】青園國小安親班",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區青峰里大勇路33號",
+  "phone": "03 287 3931",
+  "website": "http://comma.study/",
+  "rating": 5,
+  "reviews": 153,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9846410775888078682&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.019582099999997,
+  "lng": 121.2190134,
+  "place_id": "ChIJjWM2DRAhaDQRWidjoW56pYg",
+  "reg_ids": [
+   "33202302100001"
+  ],
+  "reg_names": [
+   "逗點國際教育事業股份有限公司附設私立逗點文理短期補習班展翅分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.85,
+  "name": "奧斯汀美語 桃園龍山分校",
+  "short_name": "奧斯汀美語 桃園龍山分校",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區龍壽里龍泉六街22號1樓",
+  "phone": "03 370 9247",
+  "website": "https://www.facebook.com/profile.php?id=61580289115110",
+  "rating": 5,
+  "reviews": 16,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=72871809881523559&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.983910599999998,
+  "lng": 121.27247579999998,
+  "place_id": "ChIJQwgZPk4faDQRZ8UgZobkAgE",
+  "reg_ids": [
+   "33202606030001"
+  ],
+  "reg_names": [
+   "私立煦恩文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.9,
+  "name": "青埔【個別指導】補習班❤️安親.美語.鋼琴.數學.多益.甲蟲飼育.程式語言.AI機器人.APCS大學程式設計.動力積木.國中會考.高中學測.國文.英文.數學.物理.化學.生物.地球科學.社會.自學生升學輔導.親子共學.育林文化",
+  "short_name": "青埔【個別指導】補習班❤️安親.美語.鋼琴.數學.多益.甲蟲飼育.程式語言.AI",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大華一街28號",
+  "phone": "0900 187 246",
+  "website": "https://www.facebook.com/profile.php?id=100064001738820",
+  "rating": 5,
+  "reviews": 62,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11659924220272489277&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0205633,
+  "lng": 121.21943409999999,
+  "place_id": "ChIJcYSmqN8haDQRPbNQKU1f0KE",
+  "reg_ids": [
+   "33202503190001"
+  ],
+  "reg_names": [
+   "私立希言文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 11.94,
+  "name": "Red Rock English 紅石美語-大園/中壢/青埔|青園國小/青埔國小/兒童美語|外師英文|幼兒美語|美語補習班|課後英文|國小英文|國小美語|國小安親",
+  "short_name": "Red Rock English 紅石美語-大園",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區青峰里大成路二段39號",
+  "phone": "03 287 7727",
+  "website": "https://www.facebook.com/RedRockEnglish/",
+  "rating": 5,
+  "reviews": 11,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17755332729122960395&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.020518799999998,
+  "lng": 121.2204841,
+  "place_id": "ChIJk8XDpPchaDQRC7Q9nAudZ_Y",
+  "reg_ids": [
+   "33202511100002"
+  ],
+  "reg_names": [
+   "私立紅石美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.21,
+  "name": "私立育英文理短期補習班",
+  "short_name": "私立育英文理短期補習班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區田心里民權東路93號",
+  "phone": "03 387 1549",
+  "website": "",
+  "rating": 3.3,
+  "reviews": 12,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=6123919915457803578&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.882209099999997,
+  "lng": 121.291663,
+  "place_id": "ChIJUbWZsSYYaDQROnXNmbeI_FQ",
+  "reg_ids": [
+   "33200207240047"
+  ],
+  "reg_names": [
+   "私立育英文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.39,
+  "name": "私立小熊文理語文珠心算數學短期補習班",
+  "short_name": "私立小熊文理語文珠心算數學短期補習班",
+  "city": "桃園市",
+  "district": "大溪區",
+  "address": "桃園市大溪區文化路81號1F",
+  "phone": "03 387 2097",
+  "website": "https://www.facebook.com/bear3872097",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=15787240832110128572&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.881391999999998,
+  "lng": 121.29330679999998,
+  "place_id": "ChIJu-a_kiYYaDQRvG13deSLF9s",
+  "reg_ids": [
+   "33200209160001"
+  ],
+  "reg_names": [
+   "私立小熊文理語文珠心算數學短期補習班"
+  ],
+  "reg_types": [
+   "商類：珠算、心算、會計,其他類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.58,
+  "name": "喬登美語(大成分校)",
+  "short_name": "喬登美語",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大成里福僑街39號",
+  "phone": "03 371 4237",
+  "website": "",
+  "rating": 4.5,
+  "reviews": 11,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=13133463996729627691&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.958541999999998,
+  "lng": 121.2955987,
+  "place_id": "ChIJSVzWvM0YaDQRK5Rzw-tvQ7Y",
+  "reg_ids": [
+   "33201107180001"
+  ],
+  "reg_names": [
+   "私立維一語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.62,
+  "name": "桃園市私立艾普樂斯英語補習班",
+  "short_name": "桃園市私立艾普樂斯英語補習班",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大成里大成街61號 號",
+  "phone": "03 363 6276",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12900452177462876946&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.957714199999998,
+  "lng": 121.2962628,
+  "place_id": "ChIJFeahks0YaDQREtuW5-ecB7M",
+  "reg_ids": [
+   "33200507120003"
+  ],
+  "reg_names": [
+   "私立艾普樂斯英語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.63,
+  "name": "Live互動美語桃園龍安分校（龍安甲子）",
+  "short_name": "Live互動美語桃園龍安分校",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區龍安里國強十三街104號",
+  "phone": "03 370 9123",
+  "website": "https://www.facebook.com/austinlonganschool",
+  "rating": 5,
+  "reviews": 13,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=6861916949558970956&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.992203099999998,
+  "lng": 121.27508139999999,
+  "place_id": "ChIJAQd2L08faDQRTMqxEBxtOl8",
+  "reg_ids": [
+   "33202501070001"
+  ],
+  "reg_names": [
+   "私立龍安甲子文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.63,
+  "name": "經典補習班-大成分校國小部(徐薇英文)-大成國小補習班/八德數學班/八德兒童美語/八德作文班/八德安親班",
+  "short_name": "經典補習班-大成分校國小部",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大成里大成街67號",
+  "phone": "03 376 1116",
+  "website": "https://www.facebook.com/%E7%B6%93%E5%85%B8%E8%A3%9C%E7%BF%92%E7%8F%AD-%E5%BE%90%E8%96%87%E8%8B%B1%E6%96%87-%E5%9C%8B%E5%B0%8F%E9%83%A8-1830379323887907/",
+  "rating": 4.6,
+  "reviews": 91,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4820511775959319611&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9577556,
+  "lng": 121.2963669,
+  "place_id": "ChIJZf2zWQEZaDQRO4Skievl5UI",
+  "reg_ids": [
+   "33200507040007"
+  ],
+  "reg_names": [
+   "私立經典文理美語短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.72,
+  "name": "佳祥文理短期補習班(中興國中 永豐國中 桃園國中)桃園國一先修 英文 數學 會考補習班 全科班 高一數學班",
+  "short_name": "佳祥文理短期補習班",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區龍鳳里國豐三街13號5樓",
+  "phone": "03 379 5379",
+  "website": "https://jia-xiang.articulation.website/",
+  "rating": 5,
+  "reviews": 63,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11989558217325762679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.988014,
+  "lng": 121.27981100000001,
+  "place_id": "ChIJYcbfH2ofaDQRd1iR3ax3Y6Y",
+  "reg_ids": [
+   "33201010280001"
+  ],
+  "reg_names": [
+   "私立佳祥文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.85,
+  "name": "私立柏林語文文理短期補習班",
+  "short_name": "私立柏林語文文理短期補習班",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區龍鳳里龍安街119號2 樓",
+  "phone": "03 378 6458",
+  "website": "",
+  "rating": 3,
+  "reviews": 2,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=7801825727646148257&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9900201,
+  "lng": 121.27972670000001,
+  "place_id": "ChIJkeMH2GsfaDQRoSba1ymnRWw",
+  "reg_ids": [
+   "33200911160001"
+  ],
+  "reg_names": [
+   "私立柏林語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.85,
+  "name": "吉的堡美語",
+  "short_name": "吉的堡美語",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大和里介壽路二段34號2樓",
+  "phone": "",
+  "website": "",
+  "rating": 2,
+  "reviews": 4,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2320821223733016244&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.957108599999998,
+  "lng": 121.29892400000001,
+  "place_id": "ChIJV2Px7EsZaDQRtDbLU5s2NSA",
+  "reg_ids": [
+   "33200507080004"
+  ],
+  "reg_names": [
+   "私立立人文理短期補習班大成分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.85,
+  "name": "私立立天文理美語短期補習班",
+  "short_name": "私立立天文理美語短期補習班",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大和里介壽路二段34號",
+  "phone": "03 371 1000",
+  "website": "",
+  "rating": 1,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4105081208091396340&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9569366,
+  "lng": 121.2989824,
+  "place_id": "ChIJbfsSOtIYaDQR9Ehr7pst-Dg",
+  "reg_ids": [
+   "33200507080004"
+  ],
+  "reg_names": [
+   "私立立人文理短期補習班大成分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 12.99,
+  "name": "奧斯汀美語桃園大湳二校",
+  "short_name": "奧斯汀美語桃園大湳二校",
+  "city": "桃園市",
+  "district": "八德區",
+  "address": "桃園市八德區大忠里介壽路一段985號",
+  "phone": "03 361 0885",
+  "website": "",
+  "rating": 5,
+  "reviews": 4,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16859520172317723614&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.958772,
+  "lng": 121.2997327,
+  "place_id": "ChIJS--ar7UZaDQR3suHakUM-ek",
+  "reg_ids": [
+   "33202307250001"
+  ],
+  "reg_names": [
+   "私立葛萊文理短期補習班八德分班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 13.15,
+  "name": "冠軒美語數學作文短期補習班（龍安分校）",
+  "short_name": "冠軒美語數學作文短期補習班",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區龍岡里上海路117號",
+  "phone": "03 370 4558",
+  "website": "",
+  "rating": 4.9,
+  "reviews": 13,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16876386804591183682&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.99152,
+  "lng": 121.282253,
+  "place_id": "ChIJu4eneGwfaDQRQke_Q2L4NOo",
+  "reg_ids": [
+   "33201002010002"
+  ],
+  "reg_names": [
+   "私立冠軒美語數學作文短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 13.39,
+  "name": "佳音英語湖口校",
+  "short_name": "佳音英語湖口校",
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "address": "新竹縣湖口鄉愛勢村民族街175號",
+  "phone": "03 699 3077",
+  "website": "",
+  "rating": 4.8,
+  "reviews": 462,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11080097178541350642&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.904961,
+  "lng": 121.04645099999999,
+  "place_id": "ChIJsTs5Q0UwaDQR8t7D061pxJk",
+  "reg_ids": [
+   "36202009290001"
+  ],
+  "reg_names": [
+   "新竹縣私立宏潤文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 13.6,
+  "name": "凱瑟琳美語文理補習班",
+  "short_name": "凱瑟琳美語文理補習班",
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "address": "新竹縣湖口鄉德盛村成功路62-1號",
+  "phone": "03 599 1775",
+  "website": "",
+  "rating": 5,
+  "reviews": 2,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9713764555554113044&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9062052,
+  "lng": 121.04416739999998,
+  "place_id": "ChIJyYy15WcxaDQRFEaVxWU5zoY",
+  "reg_ids": [
+   "36200406100001"
+  ],
+  "reg_names": [
+   "新竹縣私立凱瑟琳美語文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 13.98,
+  "name": "約拿美語短期補習班",
+  "short_name": "約拿美語短期補習班",
+  "city": "新竹縣",
+  "district": "關西鎮",
+  "address": "新竹縣關西鎮西安里正義路111之6號",
+  "phone": "03 517 1245",
+  "website": "",
+  "rating": 5,
+  "reviews": 1,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=18247875052884327115&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.79457,
+  "lng": 121.17547999999998,
+  "place_id": "ChIJ2X8vx8s-aDQRy_rh4K15Pf0",
+  "reg_ids": [
+   "36201008050001"
+  ],
+  "reg_names": [
+   "新竹縣私立約拿美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 13.98,
+  "name": "葛洛莉英語-大竹校Da Chu(大竹國小 新莊國小 新興國小 大華國小 五權國小)大竹兒童美語 大竹英文補習班 大竹美語 蘆竹美語 小一新生 英文補習 國小英文 國中英文 高中英文",
+  "short_name": "葛洛莉英語-大竹校Da Chu",
+  "city": "桃園市",
+  "district": "蘆竹區",
+  "address": "桃園市蘆竹區大竹里大新路131號",
+  "phone": "03 313 5130",
+  "website": "http://www.glo.com.tw/",
+  "rating": 5,
+  "reviews": 685,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3178985590916278911&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.024732099999998,
+  "lng": 121.25537439999998,
+  "place_id": "ChIJCQVZjCUgaDQRf2qmTI0GHiw",
+  "reg_ids": [
+   "33200612220009"
+  ],
+  "reg_names": [
+   "私立大灣美語短期補習班大竹分班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.15,
+  "name": "愛美語關西分校-立人文理補習班",
+  "short_name": "愛美語關西分校-立人文理補習班",
+  "city": "新竹縣",
+  "district": "關西鎮",
+  "address": "新竹縣關西鎮西安里北平路106號",
+  "phone": "03 587 1670",
+  "website": "https://www.facebook.com/%E6%84%9B%E7%BE%8E%E8%AA%9E%E9%97%9C%E8%A5%BF%E5%88%86%E6%A0%A1-100496242582188",
+  "rating": "",
+  "reviews": "",
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3830126852697435119&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.793051900000002,
+  "lng": 121.1740264,
+  "place_id": "ChIJa0UGmzI_aDQR7yu3YxRYJzU",
+  "reg_ids": [
+   "36201001280002"
+  ],
+  "reg_names": [
+   "新竹縣私立立人文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.19,
+  "name": "大翰文理美語補習班",
+  "short_name": "大翰文理美語補習班",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區草新里四維路29號",
+  "phone": "",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "CLOSED_TEMPORARILY",
+  "maps": "https://maps.google.com/?cid=12958951856420763028&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.043723399999998,
+  "lng": 121.1424201,
+  "place_id": "ChIJ90J_IBwnaDQRlDVZzw1y17M",
+  "reg_ids": [
+   "33202509050002"
+  ],
+  "reg_names": [
+   "私立哲思文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.19,
+  "name": "奧斯汀美語 大竹分校",
+  "short_name": "奧斯汀美語 大竹分校",
+  "city": "桃園市",
+  "district": "蘆竹區",
+  "address": "桃園市蘆竹區大竹里大竹路600號",
+  "phone": "03 313 1397",
+  "website": "https://www.facebook.com/austinenglishlight/",
+  "rating": 4.9,
+  "reviews": 15,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17325832122382422480&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0259069,
+  "lng": 121.25712279999999,
+  "place_id": "ChIJ1XpvgOkhaDQR0BGo5IS4cfA",
+  "reg_ids": [
+   "33202108160001"
+  ],
+  "reg_names": [
+   "私立光樹文理語文短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.2,
+  "name": "Danny Kids丹尼互動美語湖口校區",
+  "short_name": "Danny Kids丹尼互動美語湖口校區",
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "address": "新竹縣湖口鄉信勢村新湖路115號",
+  "phone": "03 557 1805",
+  "website": "https://www.facebook.com/dannykidshukou/",
+  "rating": 5,
+  "reviews": 88,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2209145546443792600&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9021573,
+  "lng": 121.0387417,
+  "place_id": "ChIJ8x6wMggxaDQR2CDrgCt2qB4",
+  "reg_ids": [
+   "36202501170001"
+  ],
+  "reg_names": [
+   "新竹縣私立恒卓文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.22,
+  "name": "泓庭文理補習班-皇家美語加盟校",
+  "short_name": "泓庭文理補習班-皇家美語加盟校",
+  "city": "桃園市",
+  "district": "蘆竹區",
+  "address": "桃園市蘆竹區上竹里南竹路五段251號",
+  "phone": "03 323 6345",
+  "website": "",
+  "rating": 3.9,
+  "reviews": 13,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=240151938651357695&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0245338,
+  "lng": 121.25976010000001,
+  "place_id": "ChIJmZgveZwfaDQR_4Fvc-owVQM",
+  "reg_ids": [
+   "33200306020003"
+  ],
+  "reg_names": [
+   "私立泓庭文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.23,
+  "name": "博全-空中美語觀音分校",
+  "short_name": "博全-空中美語觀音分校",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區四維路12號",
+  "phone": "03 438 9525",
+  "website": "https://sites.google.com/view/bochyuan/%E9%A6%96%E9%A0%81",
+  "rating": 4.4,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9671046561170692986&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.044155999999997,
+  "lng": 121.14268469999999,
+  "place_id": "ChIJmy7Wox4naDQRepvXpJt1NoY",
+  "reg_ids": [
+   "33200612210014"
+  ],
+  "reg_names": [
+   "私立博全美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.27,
+  "name": "愛美語國際補習班",
+  "short_name": "愛美語國際補習班",
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "address": "新竹縣湖口鄉信勢村明德街255號",
+  "phone": "03 599 6007",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12657964811721207265&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.902227399999997,
+  "lng": 121.03805879999999,
+  "place_id": "ChIJHVEVN1IwaDQR4W0Jdu4fqq8",
+  "reg_ids": [
+   "36202002120001"
+  ],
+  "reg_names": [
+   "新竹縣私立王浩文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.29,
+  "name": "葉老師美語教室",
+  "short_name": "葉老師美語教室",
+  "city": "新竹縣",
+  "district": "湖口鄉",
+  "address": "新竹縣湖口鄉信勢村明德街308號",
+  "phone": "03 599 2756",
+  "website": "",
+  "rating": 5,
+  "reviews": 4,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=6439218446177399884&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.901533600000004,
+  "lng": 121.0379552,
+  "place_id": "ChIJZX74ylMwaDQRTPSLcw-zXFk",
+  "reg_ids": [
+   "36200801160001"
+  ],
+  "reg_names": [
+   "私立葉老師美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.36,
+  "name": "Flying Dolphin English(博士登補習班)",
+  "short_name": "Flying Dolphin English",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區草新里四維二街46號",
+  "phone": "03 483 6316",
+  "website": "https://www.facebook.com/%E6%B5%B7%E8%B1%9A%E9%B3%A5%E7%BE%8E%E8%AA%9E-%E8%8D%89%E6%BC%AF%E6%A0%A1-329125293539/",
+  "rating": 4,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=14775297317793933469&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.045111,
+  "lng": 121.1418899,
+  "place_id": "ChIJpROFBhwnaDQRnajjraBmDM0",
+  "reg_ids": [
+   "33200612210021"
+  ],
+  "reg_names": [
+   "私立博士登文理美語短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.74,
+  "name": "布蘭達美語-Brenda studio",
+  "short_name": "布蘭達美語-Brenda studio",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區草漯里忠孝路34號",
+  "phone": "03 483 7499",
+  "website": "",
+  "rating": 5,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=1838528830862011972&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.049077999999998,
+  "lng": 121.143618,
+  "place_id": "ChIJ8e8ykRknaDQRRC7YEDvEgxk",
+  "reg_ids": [
+   "33201008060004"
+  ],
+  "reg_names": [
+   "私立布蘭達美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "10–15 km",
+  "distance_km": 14.8,
+  "name": "佳音英語關西校",
+  "short_name": "佳音英語關西校",
+  "city": "新竹縣",
+  "district": "關西鎮",
+  "address": "新竹縣關西鎮東安里大德街86號",
+  "phone": "03 517 1630",
+  "website": "",
+  "rating": 4,
+  "reviews": 3,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=8393930351964256124&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.787195699999998,
+  "lng": 121.1809414,
+  "place_id": "ChIJ1xXU2dE-aDQRfPcyoi47fXQ",
+  "reg_ids": [
+   "36200901200003"
+  ],
+  "reg_names": [
+   "新竹縣私立文星文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 15.76,
+  "name": "私立佛利亞美語文理短期補習班",
+  "short_name": "私立佛利亞美語文理短期補習班",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大園里和平一街17號",
+  "phone": "03 386 0268",
+  "website": "",
+  "rating": 3.9,
+  "reviews": 11,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=3192939386250519507&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0604575,
+  "lng": 121.2007682,
+  "place_id": "ChIJsSqDKpogaDQR0-PQcnSZTyw",
+  "reg_ids": [
+   "33201103170005"
+  ],
+  "reg_names": [
+   "私立佛利亞美語文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 15.76,
+  "name": "葛洛莉英語-大園校 Da Yuan",
+  "short_name": "葛洛莉英語-大園校 Da Yuan",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大園里中正二街55號",
+  "phone": "03 385 5081",
+  "website": "http://www.glo.com.tw/",
+  "rating": 5,
+  "reviews": 464,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=6186639775692339273&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.060535,
+  "lng": 121.20037889999999,
+  "place_id": "ChIJj1cqLpogaDQRSbhxBxlc21U",
+  "reg_ids": [
+   "33200707180011"
+  ],
+  "reg_names": [
+   "私立葛洛莉英語會話短期補習班大園分班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 15.82,
+  "name": "群揚語文短期補習班(大園國小 大園國中)大園兒童美語 大園小一新生 大園正音班 大園課輔班 大園補習班",
+  "short_name": "群揚語文短期補習班",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大園里中正二街46號",
+  "phone": "03 385 8920",
+  "website": "https://chun-yang.weebly.com/",
+  "rating": 4.9,
+  "reviews": 49,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12749131193607395473&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0611095,
+  "lng": 121.2004163,
+  "place_id": "ChIJOXdCzZsgaDQRkRjS1UUD7rA",
+  "reg_ids": [
+   "33200804280010"
+  ],
+  "reg_names": [
+   "私立群揚語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 15.84,
+  "name": "奧斯汀美語/MPM數學_桃園大園分校",
+  "short_name": "奧斯汀美語",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大園里中正二街39號",
+  "phone": "03 386 8808",
+  "website": "https://austinenglish.com.tw/",
+  "rating": 4.8,
+  "reviews": 24,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5150303975398947100&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0612057,
+  "lng": 121.20074259999998,
+  "place_id": "ChIJ5bv3FQ8haDQRHLnvmi2OeUc",
+  "reg_ids": [
+   "33202310020001"
+  ],
+  "reg_names": [
+   "私立二聖文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.07,
+  "name": "私立名慧美語珠心算短期補習班",
+  "short_name": "私立名慧美語珠心算短期補習班",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "鶯歌區二橋里高職西街108號",
+  "phone": "02 8671 1832",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17378193242969934326&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.941194499999998,
+  "lng": 121.3358555,
+  "place_id": "ChIJg2yWGkYZaDQR9glRTa6-K_E",
+  "reg_ids": [
+   "21200304030006"
+  ],
+  "reg_names": [
+   "私立名慧美語珠心算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.07,
+  "name": "吉的堡美語鶯歌二橋分校",
+  "short_name": "吉的堡美語鶯歌二橋分校",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區二橋里高職西街108號",
+  "phone": "02 8677 1832",
+  "website": "https://m.facebook.com/100083613390584/",
+  "rating": 3.7,
+  "reviews": 13,
+  "type": "教育機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9217813058763757645&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.941194499999998,
+  "lng": 121.3358555,
+  "place_id": "ChIJg2yWGkYZaDQRTRiSjSNA7H8",
+  "reg_ids": [
+   "21200304030006"
+  ],
+  "reg_names": [
+   "私立名慧美語珠心算短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.09,
+  "name": "長頸鹿美語觀音分校",
+  "short_name": "長頸鹿美語觀音分校",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區觀音里三民路43巷1號",
+  "phone": "03 473 3873",
+  "website": "https://m.facebook.com/lovegiraffeGN/?locale2=zh_TW",
+  "rating": 5,
+  "reviews": 89,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=8523702580769682223&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0355432,
+  "lng": 121.0817345,
+  "place_id": "ChIJd8xuZf8naDQRL3PbMVZGSnY",
+  "reg_ids": [
+   "33200507130018"
+  ],
+  "reg_names": [
+   "私立先進美語數學短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.1,
+  "name": "百勝外師美語教室&河合音樂教室-大園英文補習班 大園音樂教室-大園校",
+  "short_name": "百勝外師美語教室&河合音樂教室-大園英文補習班 大園音樂教室-大園校",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區大園里新生路130號",
+  "phone": "03 385 2169",
+  "website": "https://winner-english.weebly.com/",
+  "rating": 4.5,
+  "reviews": 33,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11603259384907977558&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0635864,
+  "lng": 121.200497,
+  "place_id": "ChIJE6vK95sgaDQRVlMoEu8OB6E",
+  "reg_ids": [
+   "33201601050002"
+  ],
+  "reg_names": [
+   "私立百勝文理語文技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.44,
+  "name": "亞莉安美語短期補習班",
+  "short_name": "亞莉安美語短期補習班",
+  "city": "桃園市",
+  "district": "觀音區",
+  "address": "桃園市觀音區白玉里中興路44號",
+  "phone": "03 473 4338",
+  "website": "",
+  "rating": 4.2,
+  "reviews": 6,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16139118546310347088&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.038556,
+  "lng": 121.08034359999999,
+  "place_id": "ChIJWckRTCcmaDQRUDm_JM-q-d8",
+  "reg_ids": [
+   "33200507080017"
+  ],
+  "reg_names": [
+   "私立亞莉安美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.45,
+  "name": "雪米美語",
+  "short_name": "雪米美語",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區成功里桃一街87號",
+  "phone": "03 333 9860",
+  "website": "https://www.facebook.com/profile.php?id=100083101672465",
+  "rating": 5,
+  "reviews": 10,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2001121843865286262&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9954535,
+  "lng": 121.3186909,
+  "place_id": "ChIJnauAuaIfaDQRdnbd77ZpxRs",
+  "reg_ids": [
+   "33202205020001"
+  ],
+  "reg_names": [
+   "私立雪米文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.51,
+  "name": "奧斯汀美語-青溪分校",
+  "short_name": "奧斯汀美語-青溪分校",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區三民里自強路77號",
+  "phone": "03 331 1155",
+  "website": "",
+  "rating": 5,
+  "reviews": 31,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=5402316175134120272&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9967983,
+  "lng": 121.31845469999999,
+  "place_id": "ChIJCxHxZccfaDQRUFk3R_Dh-Eo",
+  "reg_ids": [
+   "33202308230001"
+  ],
+  "reg_names": [
+   "私立智森文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.9,
+  "name": "長青文理語文珠算短期補習班/國小安親班",
+  "short_name": "長青文理語文珠算短期補習班",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區永昌里永明街71-1號",
+  "phone": "02 2677 4265",
+  "website": "",
+  "rating": 4.2,
+  "reviews": 14,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11517522815217016364&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.956103,
+  "lng": 121.34101240000001,
+  "place_id": "ChIJWZpzI7IeaDQRLJ53Xfp11p8",
+  "reg_ids": [
+   "21200505160005"
+  ],
+  "reg_names": [
+   "私立長青文理語文珠算短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,商類：珠算、心算、會計"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 16.93,
+  "name": "私立樂捷文理技藝補習班/國小/國中/高中-桃園/文昌/慈文/同德/經國/同德/慈文/同安/莊敬/新埔國中國小作文|國中英文補習|作文補習班|國/高中國文班|國小美術教學|國中自然補習|英文補習班|多元才藝",
+  "short_name": "私立樂捷文理技藝補習班",
+  "city": "桃園市",
+  "district": "桃園區",
+  "address": "桃園市桃園區自強里莊敬路一段187號",
+  "phone": "03 316 1791",
+  "website": "https://lin.ee/jsD1IMW",
+  "rating": 5,
+  "reviews": 104,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16549519668812569714&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.025148599999998,
+  "lng": 121.2998856,
+  "place_id": "ChIJEenbcDYfaDQRctzppnS0q-U",
+  "reg_ids": [
+   "33202404250001"
+  ],
+  "reg_names": [
+   "私立樂捷文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,美術、書法、攝影、美工設計、圍棋類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.06,
+  "name": "私立文建語文短期補習班",
+  "short_name": "私立文建語文短期補習班",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區建國里國華路71號",
+  "phone": "",
+  "website": "",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=4419043082239904887&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.954611099999997,
+  "lng": 121.34307240000001,
+  "place_id": "ChIJ6Ubi8osfaDQRd4wOLEWYUz0",
+  "reg_ids": [
+   "21200412300001"
+  ],
+  "reg_names": [
+   "私立芝麻村語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.4,
+  "name": "長頸鹿美語-南崁光明分校 (國中部/英檢班)",
+  "short_name": "長頸鹿美語-南崁光明分校",
+  "city": "桃園市",
+  "district": "蘆竹區",
+  "address": "桃園市蘆竹區福昌里南順七街24號",
+  "phone": "03 321 3626",
+  "website": "https://lin.ee/OOTIaWK",
+  "rating": 5,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11584361116529656085&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.038801,
+  "lng": 121.29078500000001,
+  "place_id": "ChIJkzWHRb0faDQRFQGZFA_rw6A",
+  "reg_ids": [
+   "33200209130028"
+  ],
+  "reg_names": [
+   "私立宇成美語短期補習班光明分班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.43,
+  "name": "Live互動美語-新北鶯歌分校",
+  "short_name": "Live互動美語-新北鶯歌分校",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區南鶯里育英街43號2樓",
+  "phone": "",
+  "website": "",
+  "rating": 5,
+  "reviews": 8,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16798625233636299584&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9538126,
+  "lng": 121.3470001,
+  "place_id": "ChIJ3erEMR4faDQRQBPOpaW0IOk",
+  "reg_ids": [
+   "21202207200001"
+  ],
+  "reg_names": [
+   "私立艾特文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.45,
+  "name": "茱蒂美語文理短期補習(建國國小 鶯歌國小)鶯歌安親班/鶯歌美語/鶯歌英文/鶯歌國中數學/鶯歌國中理化/鶯歌英檢補習班",
+  "short_name": "茱蒂美語文理短期補習",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區南鶯里育英街21號",
+  "phone": "02 2678 6559",
+  "website": "https://www.judy-english.com/",
+  "rating": 4.5,
+  "reviews": 34,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16850024119125160988&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9550567,
+  "lng": 121.34694879999998,
+  "place_id": "ChIJVYRxIKweaDQRHDQ4PalP1-k",
+  "reg_ids": [
+   "21200406230001",
+   "21201610240001"
+  ],
+  "reg_names": [
+   "私立茱蒂美語文理短期補習班",
+   "私立優e文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類",
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.46,
+  "name": "鶯歌聖禾IvyEnglish-新北鶯歌補習班 課輔班 安親班 推薦 國小/兒童 美語班 英檢班 正音班 寒暑假夏令營 珠心算 自然發音班 外師主題課 麥塊電腦課 TutorABC",
+  "short_name": "鶯歌聖禾IvyEnglish-新北鶯歌補習班 課輔班 安親班 推薦 國小",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區南鶯里育英街19號",
+  "phone": "02 8677 3222",
+  "website": "https://www.facebook.com/YinggeShengher",
+  "rating": 5,
+  "reviews": 122,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=13378954287840532386&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.955105000000003,
+  "lng": 121.34702089999999,
+  "place_id": "ChIJVYRxIKweaDQRopfsQAqYq7k",
+  "reg_ids": [
+   "21200509090002"
+  ],
+  "reg_names": [
+   "私立聖禾文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.64,
+  "name": "奧斯汀美語 - 鶯歌建國分校 / 私立京英文理短期補習班",
+  "short_name": "奧斯汀美語 - 鶯歌建國分校",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區南鶯里建國路210巷4號",
+  "phone": "02 2678 8587",
+  "website": "https://www.facebook.com/yinggeaustin/",
+  "rating": 5,
+  "reviews": 18,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=17952011757735515433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.953758399999998,
+  "lng": 121.34915489999997,
+  "place_id": "ChIJPxiLa7MfaDQRKRV2b5RbIvk",
+  "reg_ids": [
+   "21202312060001",
+   "21202312060001"
+  ],
+  "reg_names": [
+   "私立京英文理短期補習班",
+   "私立京英文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類",
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 17.65,
+  "name": "大熊哥美語短期補習班 Big Brother Bear English School",
+  "short_name": "大熊哥美語短期補習班 Big Brother Bear English Scho",
+  "city": "新北市",
+  "district": "鶯歌區",
+  "address": "新北市鶯歌區南鶯里育才街29號",
+  "phone": "02 2670 7732",
+  "website": "https://b3school.com/",
+  "rating": 4.9,
+  "reviews": 44,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=18432274182316596293&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9549466,
+  "lng": 121.3489229,
+  "place_id": "ChIJqTADlFkfaDQRRZyV37WXzP8",
+  "reg_ids": [
+   "21200307310003"
+  ],
+  "reg_names": [
+   "大熊哥美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.55,
+  "name": "文賢數理學苑-Live互動美語",
+  "short_name": "文賢數理學苑-Live互動美語",
+  "city": "新竹縣",
+  "district": "竹北市",
+  "address": "新竹縣竹北市竹仁里中山路251號",
+  "phone": "03 551 6586",
+  "website": "https://www.facebook.com/wenshianzb",
+  "rating": 4.6,
+  "reviews": 59,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=15856574093353569986&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.835987,
+  "lng": 121.0194854,
+  "place_id": "ChIJp01F98I2aDQRwk4ATSDeDdw",
+  "reg_ids": [
+   "36200901200001"
+  ],
+  "reg_names": [
+   "新竹縣私立文賢文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.61,
+  "name": "弋果美語新豐分校",
+  "short_name": "弋果美語新豐分校",
+  "city": "新竹縣",
+  "district": "新豐鄉",
+  "address": "新竹縣新豐鄉忠孝村忠孝路129號",
+  "phone": "03 557 7937",
+  "website": "https://www.facebook.com/eaglehsinfeng",
+  "rating": 3.7,
+  "reviews": 29,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=11952706487950066176&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.879009,
+  "lng": 120.99930599999999,
+  "place_id": "ChIJD1SZ00IxaDQRAELF_jiL4KU",
+  "reg_ids": [
+   "36201312290001"
+  ],
+  "reg_names": [
+   "新竹縣私立張易文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.78,
+  "name": "良門珠心算美語短期補習班",
+  "short_name": "良門珠心算美語短期補習班",
+  "city": "桃園市",
+  "district": "龜山區",
+  "address": "桃園市龜山區龜山里自強東路198號",
+  "phone": "03 329 9280",
+  "website": "",
+  "rating": 5,
+  "reviews": 3,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12445602330240325670&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.996558399999998,
+  "lng": 121.34430400000001,
+  "place_id": "ChIJjYu06XweaDQRJpi_NWGpt6w",
+  "reg_ids": [
+   "33200207300034"
+  ],
+  "reg_names": [
+   "私立良門珠心算美語短期補習班"
+  ],
+  "reg_types": [
+   "外語類,商類：珠算、心算、會計"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.86,
+  "name": "喬登美語 文興分校",
+  "short_name": "喬登美語 文興分校",
+  "city": "新竹縣",
+  "district": "竹北市",
+  "address": "新竹縣竹北市隘口里高鐵九路52號2樓",
+  "phone": "03 612 9009",
+  "website": "https://www.facebook.com/share/187mVxkYqZ/?mibextid=wwXIfr",
+  "rating": "",
+  "reviews": "",
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=2767888211527971697&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8032379,
+  "lng": 121.0427837,
+  "place_id": "ChIJzyLJEgc3aDQRcbMd2qmDaSY",
+  "reg_ids": [
+   "36202309230002",
+   "36202606220001"
+  ],
+  "reg_names": [
+   "新竹縣私立蒔英文理短期補習班",
+   "新竹縣私立學兒文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類",
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.92,
+  "name": "三之三芎林分校＜鉅林補習班＞格蘭英語/MPM數學",
+  "short_name": "三之三芎林分校＜鉅林補習班＞格蘭英語",
+  "city": "新竹縣",
+  "district": "芎林鄉",
+  "address": "新竹縣芎林鄉芎林村文昌街222號",
+  "phone": "03 512 0033",
+  "website": "https://www.facebook.com/pg/33winwin/about/",
+  "rating": 4.9,
+  "reviews": 9,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=156644005763506941&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.7759963,
+  "lng": 121.0786921,
+  "place_id": "ChIJzYt5ZfU3aDQR_WK6r-SCLAI",
+  "reg_ids": [
+   "36200607240001"
+  ],
+  "reg_names": [
+   "新竹縣私立鉅林文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 18.94,
+  "name": "互動美語山崎校",
+  "short_name": "互動美語山崎校",
+  "city": "新竹縣",
+  "district": "新豐鄉",
+  "address": "新竹縣新豐鄉山崎村學府路70號",
+  "phone": "03 557 2025",
+  "website": "",
+  "rating": 4.8,
+  "reviews": 33,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=12414411095172997513&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.873042899999998,
+  "lng": 120.9977603,
+  "place_id": "ChIJcUfePN8xaDQRiWF03x3ZSKw",
+  "reg_ids": [
+   "36201711220001"
+  ],
+  "reg_names": [
+   "極致教育股份有限公司附設新竹縣私立劉欣英文邱天數理山崎文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "phone"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 19.07,
+  "name": "Live互動美語竹北文興分校 - 熠新",
+  "short_name": "Live互動美語竹北文興分校 - 熠新",
+  "city": "新竹縣",
+  "district": "竹北市",
+  "address": "新竹縣竹北市隘口里隘口三街206號",
+  "phone": "03 668 5581",
+  "website": "https://www.facebook.com/profile.php?id=61582188993059",
+  "rating": 5,
+  "reviews": 32,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=9080127589191330602&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8024378,
+  "lng": 121.0407576,
+  "place_id": "ChIJ65DWfa03aDQRKiv5DO8XA34",
+  "reg_ids": [
+   "36202604270001"
+  ],
+  "reg_names": [
+   "新竹縣私立熠新文理技藝短期補習班"
+  ],
+  "reg_types": [
+   "文理類,資訊類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 19.16,
+  "name": "文特蘭補習班｜菓林分校（菓林國小)【國小安親課輔】【海豚鳥美語課程】【國中英數理化補習班】【升小一先修正音班】",
+  "short_name": "文特蘭補習班",
+  "city": "桃園市",
+  "district": "大園區",
+  "address": "桃園市大園區菓林里菓林路137號",
+  "phone": "03 393 5427",
+  "website": "https://wentelan.vercel.app/",
+  "rating": 5,
+  "reviews": 13,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=8869489318183529185&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 25.0768178,
+  "lng": 121.2576754,
+  "place_id": "ChIJpfDgsvSfQjQR4Wpz1YrBFns",
+  "reg_ids": [
+   "33200210040006"
+  ],
+  "reg_names": [
+   "私立文特蘭語文文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 19.5,
+  "name": "高登波士頓語文文理短期補習班",
+  "short_name": "高登波士頓語文文理短期補習班",
+  "city": "新北市",
+  "district": "三峽區",
+  "address": "新北市三峽區大同路143號",
+  "phone": "02 8674 2866",
+  "website": "",
+  "rating": 5,
+  "reviews": 4,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=16884132785800534533&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.926815,
+  "lng": 121.37138999999998,
+  "place_id": "ChIJw-uW3-sbaDQRBdoqDlB9UOo",
+  "reg_ids": [
+   "21201205210001"
+  ],
+  "reg_names": [
+   "私立高登波士頓語文文理短期補習班"
+  ],
+  "reg_types": [
+   "文理類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 19.7,
+  "name": "培淯語文短期補習班",
+  "short_name": "培淯語文短期補習班",
+  "city": "新北市",
+  "district": "三峽區",
+  "address": "新北市三峽區中正里永安街188號1樓",
+  "phone": "02 2672 1035",
+  "website": "",
+  "rating": 5,
+  "reviews": 9,
+  "type": "兒童照護機構",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=10681572769613628438&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.9279567,
+  "lng": 121.3733262,
+  "place_id": "ChIJxwbsd-wbaDQRFkROL9eRPJQ",
+  "reg_ids": [
+   "21200809230001"
+  ],
+  "reg_names": [
+   "私立培淯語文短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "address"
+ },
+ {
+  "band": "15–20 km",
+  "distance_km": 19.94,
+  "name": "私立資優英語會話短期補習班",
+  "short_name": "私立資優英語會話短期補習班",
+  "city": "新竹縣",
+  "district": "竹北市",
+  "address": "新竹縣竹北市新社里國盛街321號",
+  "phone": "03 656 2878",
+  "website": "",
+  "rating": 4.2,
+  "reviews": 5,
+  "type": "學校",
+  "status": "OPERATIONAL",
+  "maps": "https://maps.google.com/?cid=8845373364631860817&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "lat": 24.8435919,
+  "lng": 120.99941380000001,
+  "place_id": "ChIJZ5AarLw2aDQRUXaV2DUUwXo",
+  "reg_ids": [
+   "36200205220001"
+  ],
+  "reg_names": [
+   "新竹縣私立資優文理短期補習班"
+  ],
+  "reg_types": [
+   "外語類"
+  ],
+  "match": "phone"
+ }
+]
