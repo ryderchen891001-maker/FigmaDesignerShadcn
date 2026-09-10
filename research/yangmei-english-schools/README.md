@@ -1,4 +1,15 @@
-# 楊梅永平路 20 公里英文補習班普查
+# 英文補習班名錄：楊梅 20 公里圈 ＋ 全台立案
+
+**主要成品**：`楊梅英語補習班名錄.xlsx`（說明／楊梅20km名錄／全台英文補習班／規模統計／未對上立案）
+
+| 資料集 | 家數 | 來源 | 有 Email |
+|---|---|---|---|
+| 楊梅永平路 20 km 圈 | 159 | Google Places ＋ 立案資料 | 113 |
+| 全台英文補習班 | 4,685 | 純立案資料，22 縣市 | 3,790（Gmail 2,140）|
+
+---
+
+## 楊梅永平路 20 公里普查
 
 以 **桃園市楊梅區永平路**（`24.920261, 121.178141`，座標由 Google Places 回傳）為圓心，
 半徑 20 公里內的英文／美語補習班清單，依直線距離分為 0–5 / 5–10 / 10–15 / 15–20 km 四級。
@@ -15,7 +26,11 @@
 |---|---|
 | `sweep.py` | 呼叫 Google Places API (New) `places:searchNearby`，六角網格覆蓋 20 公里圓域 |
 | `build.py` | 過濾英文相關機構、計算 haversine 距離、分級、輸出 CSV/JSON |
-| `crawl_registry.py` | 爬取全國短期補習班立案清單，篩出研究範圍內 20 個行政區（1,946 家，外語類 1,064 家） |
+| `crawl_registry.py` | 爬立案清單，篩出研究範圍內 20 個行政區（1,946 家，外語類 1,064 家） |
+| `crawl_all_tw.py` | 爬全國 357 頁清單（17,836 家），篩出外語類 4,819 家 → `registry-tw-index.json` |
+| `fetch_details.py` | 抓立案詳細頁，取 email（解 Cloudflare `data-cfemail` 混淆）＋ 規模欄位 |
+| `build_tw.py` | 篩出實際教英文且未廢止者 4,685 家 → `tw-english-schools.csv` |
+| `make_xlsx.py` | 產生 5 分頁 Excel 成品 |
 | `match.py` | 以地址（行政區＋路名＋巷弄號）為主、電話與名稱為輔，把 Google 記錄對上立案記錄 |
 | `fetch_scale.py` | 抓立案詳細頁，取出教室數／教室面積／班舍總面積／核准科目班級數與人數／教學人員 |
 | `merge_scale.py` | 合併規模欄位、規模分級、輸出 `english-schools-scale.csv` |
@@ -42,7 +57,22 @@ python3 match.py            # 對上 120/159 家
 python3 fetch_scale.py      # 抓 117 筆詳細頁，約 8 秒
 python3 merge_scale.py      # 合併並輸出 english-schools-scale.csv
 python3 gen_page.py         # 重新產生 HTML
+
+# 全台資料集（約 9 分鐘，4,819 次 HTTP 請求）
+python3 crawl_all_tw.py                                              # 30 秒
+python3 fetch_details.py registry-tw-index.json registry-tw-detail.json 12   # 8 分鐘
+python3 build_tw.py                                                  # 篩英文
+python3 make_xlsx.py                                                 # 產 Excel
 ```
+
+## Email 欄位
+
+立案登記的聯絡信箱，**非 Google 資料**（Places API 沒有 email 欄位）。鏡站以 Cloudflare
+email-protection 混淆，位址存在 `data-cfemail` 的十六進位字串中，首位元組是其餘位元組的
+XOR key，`fetch_details.py` 的 `cfdecode()` 負責還原。
+
+覆蓋率：楊梅名錄 113/159、全台 3,790/4,685（81%）。這是負責人或班務的登記信箱，
+未必是招生窗口，也可能已停用；群發前請先小量測試退信率，並遵守個資法規範。
 
 ## 規模欄位
 
@@ -82,3 +112,7 @@ python3 gen_page.py         # 重新產生 HTML
 6. **`approved_capacity` 不是招生人數。** 它是各科核准班級數乘上每班人數的加總，
    會出現 4 間教室卻「核定 1,773 人」這種數字；判斷規模請優先看教室數與班舍面積。
 7. 立案名稱與招牌名稱常不同（加盟品牌多以在地登記名稱立案），兩者在成品中並列。
+8. **全台分頁沒有距離、評分與官網。** 那些欄位需要 Google Places API，免費配額每日
+   僅 100 次呼叫，不可能涵蓋 4,685 家。全台分頁是純立案資料。
+9. **全台分頁的英文判定**：核准科目含「英」或「美語」為主、名稱關鍵字為輔；
+   純日語／韓語補習班與已廢止／註銷者已剔除（4,819 → 4,685）。

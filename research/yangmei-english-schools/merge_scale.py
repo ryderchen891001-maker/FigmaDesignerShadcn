@@ -10,10 +10,11 @@ rows = []
 for p in places:
     m = matched.get(p["place_id"])
     r = dict(p)
-    r.update({k: "" for k in ("reg_name", "reg_id", "match", "category", "licensed_on",
-                              "principal", "classrooms", "classroom_m2", "building_m2",
-                              "approved_capacity", "approved_capacity_en", "n_classes",
-                              "n_teachers", "size_tier")})
+    r.update({k: "" for k in ("reg_name", "reg_id", "match", "email", "category",
+                              "licensed_on", "principal", "director", "classrooms",
+                              "classroom_m2", "building_m2", "approved_capacity",
+                              "approved_capacity_en", "n_classes", "n_teachers",
+                              "size_tier")})
     if m:
         # a Google pin can cover several licences at one address; sum them
         recs = [scale[i] for i in m["reg_ids"] if i in scale]
@@ -25,6 +26,9 @@ for p in places:
             r["licensed_on"] = min(x["licensed_on"] for x in recs if x["licensed_on"]) \
                 if any(x["licensed_on"] for x in recs) else ""
             r["principal"] = recs[0]["principal"]
+            r["director"] = recs[0].get("director", "")
+            r["email"] = "; ".join(dict.fromkeys(
+                x["email"] for x in recs if x.get("email")))
             for k, f in (("classrooms", int), ("classroom_m2", float), ("building_m2", float),
                          ("approved_capacity", int), ("approved_capacity_en", int),
                          ("n_classes", int), ("n_teachers", int)):
@@ -62,9 +66,10 @@ for r in rows:
     r["size_tier"] = tier(r)
 
 cols = ["band", "distance_km", "name", "reg_name", "city", "district", "address", "phone",
-        "website", "rating", "reviews", "size_tier", "seats_at_once", "approved_capacity",
+        "email", "website", "rating", "reviews", "size_tier", "seats_at_once",
+        "approved_capacity",
         "approved_capacity_en", "n_classes", "classrooms", "classroom_m2", "building_m2",
-        "n_teachers", "category", "licensed_on", "principal", "match", "reg_id",
+        "n_teachers", "category", "licensed_on", "principal", "director", "match", "reg_id",
         "type", "status", "maps", "lat", "lng", "place_id"]
 with open(f"{SP}/english-schools-scale.csv", "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=cols, extrasaction="ignore")
